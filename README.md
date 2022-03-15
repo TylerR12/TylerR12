@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @TylerR12
-- 👀 I’m interested in coding, soccer and working out
-- 🌱 I’m currently looking for a web developer position  
-- 📫 You can reach me at tylerruffolo12@gmail.com
+Hi, I’m @TylerR12
+I’m interested in coding, soccer and working out
+I’m currently looking for a web developer position  
+You can reach me at tylerruffolo12@gmail.com
+Personal Website: https://tylerruffolo.ca/
 
 <!---
 TylerR12/TylerR12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
